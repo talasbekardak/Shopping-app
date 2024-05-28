@@ -5,11 +5,13 @@ Login screen:
 
 A simple login screen.
 Login using pre—set credentials: username - test, password — test.
+
 Product catalog:
 
 View a list of products with photos and brief information.
 Detailed description of the product.
 The ability to add an item to the cart.
+
 Basket:
 
 View the added products.
